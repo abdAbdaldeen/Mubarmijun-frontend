@@ -73,14 +73,14 @@ module.exports = {
     '@nuxtjs/axios',
     'vue2-editor/nuxt',
     'cookie-universal-nuxt',
-    '@nuxtjs/robots',
+    // '@nuxtjs/robots',
     '@nuxtjs/sitemap',
   ],
-  robots: {
-    UserAgent: '*',
-    Allow: '/',
-    Disallow: ['/search'],
-  },
+  // robots: {
+  //   User-agent: '*',
+  //   Allow: '/',
+  //   Disallow: ['/search'],
+  // },
   // eslint-disable-next-line object-shorthand
   sitemap: function () {
     const sitemaps = []

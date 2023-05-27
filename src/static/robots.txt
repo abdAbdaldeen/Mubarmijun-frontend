@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /search
+Sitemap: https://programmers-qanda.web.app/sitemap-questions.xml
+Sitemap: https://programmers-qanda.web.app/sitemap-others.xml
